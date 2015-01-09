@@ -18,7 +18,7 @@ h3. Installation
 
 Add to project's Gemfile:
 <pre><code>
-gem 'spree_mailchimp_gibbon', github: 'bluehandtalking/spree_mailchimp_gibbon', branch: '2-1-stable'
+gem 'spree_mailchimp_gibbon', github: 'waylon87/spree_mailchimp_gibbon', branch: '2-3-stable'
 </code> </pre>
 
 Run from project's root:
